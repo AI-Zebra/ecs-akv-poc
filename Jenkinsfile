@@ -1,4 +1,3 @@
-*** Pipeline Code ***
 pipeline {
   agent any
   environment {
